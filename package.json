@@ -32,5 +32,11 @@
       }
     ]
   },
+  "author": {
+    "name": "Edgar Albalate",
+    "email": "dev.gardo@gmail.com",
+    "url": "https://gar.im"
+  },
+  "publisher": "EAlbalate",
   "license": "MIT"
 }
