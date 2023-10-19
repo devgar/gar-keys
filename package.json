@@ -1,7 +1,7 @@
 {
   "name": "gar-keys",
-  "displayName": "gar-keys",
-  "description": "keymap gar",
+  "displayName": "Gar's Keys",
+  "description": "My favourite key shortcuts",
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -36,6 +36,9 @@
     "name": "Edgar Albalate",
     "email": "dev.gardo@gmail.com",
     "url": "https://gar.im"
+  },
+  "devDependencies": {
+    "vsce": "2.15.0"
   },
   "publisher": "EAlbalate",
   "license": "MIT"
