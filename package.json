@@ -3,6 +3,7 @@
   "displayName": "Gar's Keys",
   "description": "My favourite key shortcuts",
   "version": "0.0.2",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/devgar/gar-keys.git"
@@ -13,6 +14,11 @@
   "categories": [
     "Keymaps"
   ],
+  "scripts": {
+    "major": "vsce publish major",
+    "minor": "vsce publish minor",
+    "patch": "vsce publish patch"
+  },
   "contributes": {
     "keybindings": [
       {
@@ -38,7 +44,7 @@
     "url": "https://gar.im"
   },
   "devDependencies": {
-    "vsce": "2.15.0"
+    "@vscode/vsce": "2.15.0"
   },
   "publisher": "EAlbalate",
   "license": "MIT"
