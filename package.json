@@ -2,7 +2,7 @@
   "name": "gar-keys",
   "displayName": "Gar's Keys",
   "description": "My favourite key shortcuts",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "icon": "icon.png",
   "repository": {
     "type": "git",
