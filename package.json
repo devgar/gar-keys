@@ -47,9 +47,9 @@
         "when": "editorTextFocus && !editorReadonly"
       },
       {
-          "key": "ctrl+k ctrl+l",
-          "command": "workbench.action.toggleMaximizedPanel",
-          "when": "panelFocus"
+        "key": "ctrl+k ctrl+l",
+        "command": "workbench.action.toggleMaximizedPanel",
+        "when": "panelFocus"
       }
     ]
   },
@@ -59,7 +59,7 @@
     "url": "https://gar.im"
   },
   "devDependencies": {
-    "@vscode/vsce": "2.15.0"
+    "@vscode/vsce": "^2.32.0"
   },
   "publisher": "EAlbalate",
   "license": "MIT"
