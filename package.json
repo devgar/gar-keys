@@ -59,7 +59,7 @@
     "url": "https://gar.im"
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.32.0"
+    "@vscode/vsce": "^3.6.0"
   },
   "publisher": "EAlbalate",
   "license": "MIT"
